@@ -1,8 +1,12 @@
 **Collaberate to add new features in dashboard**
 
-**Dashboard Preview :**
+**Dashboard Preview 1 :**
 
 ![screenshot2](https://user-images.githubusercontent.com/121867811/210559082-1dc31758-2d90-4fe8-aca5-d8464322f0a5.png)
+
+**Dashboard Preview 2 :**
+![screenshot3](https://user-images.githubusercontent.com/121867811/210560198-c5525fa9-28b6-4029-b99c-8ac19a6dd5d6.png)
+
 
 
 # Getting Started with Create React App
