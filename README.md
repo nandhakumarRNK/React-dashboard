@@ -1,6 +1,13 @@
+**Collaberate to add new features in dashboard**
+
+**Dashboard Preview :**
+
+![screenshot2](https://user-images.githubusercontent.com/121867811/210559082-1dc31758-2d90-4fe8-aca5-d8464322f0a5.png)
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Browser Router [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
